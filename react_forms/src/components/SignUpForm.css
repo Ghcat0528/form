@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+    margin-bottom: 10%;
+    color: rgb(134, 210, 171)
+}
+
+.btn-primary {
+    margin-top: 10%;
+    margin-bottom: 7%;
+}
+
+.form-group {
+    margin-bottom: 4%;
+}
+.big-form {
+    padding: 20%;
+
+    border: dashed gray
+}
+body {
+    background-color: rgb(255, 234, 237);
+}
